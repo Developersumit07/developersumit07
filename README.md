@@ -1,7 +1,7 @@
 💫 About Me:
 
-🎓Currently i'm pursuing MCA at GL Bajaj College of technology and management (2026-2028)
-🌱I'm Learning DSA in C++
+🎓Currently i'm pursuing MCA at GL Bajaj College of technology and management (2026-2028).
+-🌱I'm Learning DSA in C++
 
 
 <!--
