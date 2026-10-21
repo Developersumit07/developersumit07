@@ -1,6 +1,6 @@
 💫 About Me:
 
-- 🎓 Master's Of Computer Applications (MCA) At GL Bajaj College Of Technology and Management(2026-2028)
+- 🎓 I'M Pursuing Master's Of Computer Applications (MCA) At GL Bajaj College Of Technology and Management(2026-2028)
 - 🌱 I'm Learning DSA in C++                                                                               
 - 💻 Solving DSA problems on HackerRank / LeetCode                                                      
 - 🏗️ Building foundational web and programming projects                                                                               
