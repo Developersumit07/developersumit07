@@ -1,23 +1,9 @@
 💫 About Me:
 
-- 🎓Currently i'm pursuing MCA at GL Bajaj College of technology and management (2026-2028).                                            
-- 🌱I'm Learning DSA in C++                                                                                  
-- 📚 Master's Coursework in Computer Applications (MCA)                                               
+- 🎓 Master's Of Computer Applications (MCA) At GL Bajaj College Of Technology and Management(2026-2028)
+- 🌱 I'm Learning DSA in C++                                                                               
 - 💻 Solving DSA problems on HackerRank / LeetCode                                                      
 - 🏗️ Building foundational web and programming projects                                                                               
-
-
-<!--
-**Developersumit07/developersumit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## 🌐 Socials:
